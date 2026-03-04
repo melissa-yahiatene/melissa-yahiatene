@@ -1,10 +1,12 @@
 # 💫 About Me:
 
-👋 Salut, moi c'est **Melissa** !  
-🎓 Étudiante en **L3 Informatique**, je me forge un profil d'experte en **Cybersécurité**.  
+👋 Salut, moi c'est **Melissa** ! 
 
-🚀 Passionnée par l'analyse des vulnérabilités, le reverse engineering et la sécurisation des infrastructures.  
-🔍 Actuellement à la recherche d'une **alternance** pour la rentrée (Master), prête à relever des défis techniques au sein d'une équipe Blue Team ou Pentest.
+🎓 Étudiante en L3 Informatique, je développe une expertise transverse alliant Cybersécurité, Infrastructure Systèmes et Cloud.
+
+🚀 Ma force ? Ne pas seulement analyser les vulnérabilités, mais comprendre l'écosystème complet. Je me passionne pour la sécurisation des infrastructures critiques, le durcissement (hardening) de systèmes et l'architecture réseau sécurisée.
+
+🔍 **Actuellement à la recherche d'une alternance pour mon Master**, je souhaite apporter ma vision 360° (Sécurité/Infra/Cloud) à une équipe Blue Team, SOC ou Cloud Security. Prête à relever des défis techniques pour bâtir des environnements aussi performants que résilients.
 
 ---
 
