@@ -2,7 +2,7 @@
 
 👋 Salut, moi c'est **Melissa** ! 
 
-🎓 Étudiante en L3 Informatique, je développe une expertise transverse alliant Cybersécurité, Infrastructure Systèmes et Cloud.
+🎓 Étudiante en L3 Informatique, je développe une expertise transverse alliant Cybersécurité, Ingénierie Système et Cloud.
 
 🚀 Ma force ? Ne pas seulement analyser les vulnérabilités, mais comprendre l'écosystème complet. Je me passionne pour la sécurisation des infrastructures critiques, le durcissement (hardening) de systèmes et l'architecture réseau sécurisée.
 
