@@ -1,12 +1,19 @@
-# 💫 About Me:
+# 💫 About Me
 
-👋 Salut, moi c'est **Melissa** ! 
+👋 Moi c’est **Melissa**, passionnée par la cybersécurité, les systèmes et les réseaux.
 
-🎓 Étudiante en L3 Informatique, je développe une expertise transverse alliant Cybersécurité, Ingénierie Système et Cloud.
+🎓 Admise en Master Cybersécurité à l’Université Paris Cité, j’ai construit un profil technique orienté **sécurité des infrastructures**, **administration système** et **architectures réseau**. J’aime comprendre les systèmes “de l’intérieur” : fonctionnement bas niveau, comportements mémoire, interactions réseau, surfaces d’attaque et mécanismes de défense.
 
-🚀 Ma force ? Ne pas seulement analyser les vulnérabilités, mais comprendre l'écosystème complet. Je me passionne pour la sécurisation des infrastructures critiques, le durcissement (hardening) de systèmes et l'architecture réseau sécurisée.
+🔐 Je m’intéresse particulièrement à :
+- la sécurisation d’environnements Linux/UNIX  
+- l’analyse de flux et la compréhension des topologies réseau  
+- le hardening et la réduction de surface d’attaque  
+- la détection d’anomalies et la sécurité opérationnelle  
+- les environnements virtualisés et cloud  
 
-🔍 **Actuellement à la recherche d'une alternance pour mon Master**, je souhaite apporter ma vision 360° (Sécurité/Infra/Cloud) à une équipe Blue Team, SOC ou Cloud Security. Prête à relever des défis techniques pour bâtir des environnements aussi performants que résilients.
+🚀 **Objectif :** intégrer une alternance pour mon Master Cybersécurité afin de contribuer à la protection d’infrastructures critiques et d’évoluer dans une équipe Blue Team, SOC, Systèmes/Réseaux ou Cloud Security.
+
+📌 J’aime travailler avec méthode, structurer mes analyses et construire des environnements aussi robustes que cohérents.
 
 ---
 
@@ -14,14 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/melissa-yahiatene-4833693ab)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://melissa-yahiatene.github.io/mon-portfolio/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meli.yahiatene@gmail.com)
-
----
-
-## 🛡️ Cybersecurity Focus
-> *Ce que je pratique et développe :*
-* **Labs & CTF :** Activité régulière sur **TryHackMe** et **Root-Me** (Focus : Web Security & Linux Privesc).
-* **Architecture :** Conception de réseaux sécurisés et analyse de flux (Modèle OSI, protocoles TCP/IP).
-* **Low-Level :** Analyse du fonctionnement des programmes via l'Assembleur et le C.
 
 ---
 
